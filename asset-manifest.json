@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/finwell/static/css/main.1310d0b1.css",
-    "main.js": "/finwell/static/js/main.2534ae81.js",
+    "main.js": "/finwell/static/js/main.eca7eb46.js",
     "static/js/787.e2a33ca1.chunk.js": "/finwell/static/js/787.e2a33ca1.chunk.js",
     "static/media/logo.png": "/finwell/static/media/logo.91aa0ca74a77babbe34e.png",
     "static/media/illustration_2.svg": "/finwell/static/media/illustration_2.8dd2a7b1ef4a9c34e73b1b9a813a534d.svg",
@@ -18,11 +18,11 @@
     "static/media/downloadapp.svg": "/finwell/static/media/downloadapp.fe2c64530ce8c274919144bde690da77.svg",
     "index.html": "/finwell/index.html",
     "main.1310d0b1.css.map": "/finwell/static/css/main.1310d0b1.css.map",
-    "main.2534ae81.js.map": "/finwell/static/js/main.2534ae81.js.map",
+    "main.eca7eb46.js.map": "/finwell/static/js/main.eca7eb46.js.map",
     "787.e2a33ca1.chunk.js.map": "/finwell/static/js/787.e2a33ca1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1310d0b1.css",
-    "static/js/main.2534ae81.js"
+    "static/js/main.eca7eb46.js"
   ]
 }
