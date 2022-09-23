@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/finwell/static/css/main.1310d0b1.css",
+    "main.js": "/finwell/static/js/main.2534ae81.js",
+    "static/js/787.e2a33ca1.chunk.js": "/finwell/static/js/787.e2a33ca1.chunk.js",
+    "static/media/logo.png": "/finwell/static/media/logo.91aa0ca74a77babbe34e.png",
+    "static/media/illustration_2.svg": "/finwell/static/media/illustration_2.8dd2a7b1ef4a9c34e73b1b9a813a534d.svg",
+    "static/media/hero3.svg": "/finwell/static/media/hero3.8b9dc2cc754694de67c2db89b2c00b8b.svg",
+    "static/media/contactphoto.svg": "/finwell/static/media/contactphoto.a315073194790168fb865e2f60bf8c97.svg",
+    "static/media/illustration_1.svg": "/finwell/static/media/illustration_1.add13ab361aa9af615a216ef6784b4de.svg",
+    "static/media/illustration_4.svg": "/finwell/static/media/illustration_4.b3d07c9faa6132ab8d4da52789384bcd.svg",
+    "static/media/hero2.svg": "/finwell/static/media/hero2.88d17c89af2fce540a7d766a6627df26.svg",
+    "static/media/hero4.svg": "/finwell/static/media/hero4.bd87e5dca5998838119b02b4cccf650b.svg",
+    "static/media/about.svg": "/finwell/static/media/about.f672b4512c572b50cece0019607f1f23.svg",
+    "static/media/hero1.svg": "/finwell/static/media/hero1.0d6d88dce587e3869c1b8af53feb5202.svg",
+    "static/media/download1.svg": "/finwell/static/media/download1.01bb3c8f94450ea0c5e528ca4bcb2499.svg",
+    "static/media/illustration_3.svg": "/finwell/static/media/illustration_3.ced1d265ad97f276a5aef727410d32e5.svg",
+    "static/media/downloadapp.svg": "/finwell/static/media/downloadapp.fe2c64530ce8c274919144bde690da77.svg",
+    "index.html": "/finwell/index.html",
+    "main.1310d0b1.css.map": "/finwell/static/css/main.1310d0b1.css.map",
+    "main.2534ae81.js.map": "/finwell/static/js/main.2534ae81.js.map",
+    "787.e2a33ca1.chunk.js.map": "/finwell/static/js/787.e2a33ca1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1310d0b1.css",
+    "static/js/main.2534ae81.js"
+  ]
+}
